@@ -1,5 +1,5 @@
 # CPP-DCs
-Welcome to Programming Club !!
+Welcome to Programming Club C++ Dev !!
 
 *Add your name to the list by creating a pull request*
 
